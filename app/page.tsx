@@ -304,13 +304,14 @@ export default function Home() {
               <h3 className="font-semibold mb-4">Contact</h3>
               <ul className="space-y-2">
                 <li className="text-sm text-muted-foreground">
-                  123 Rehab St, Athlete City, AC 12345
+                  physiotherapy and sports rehabilitation Opp: chethupaalam <br />
+                  Masjid. Calicut Road, Kottappadi - Malappuram
                 </li>
                 <li className="text-sm text-muted-foreground">
                   info@thejumprehab.com
                 </li>
                 <li className="text-sm text-muted-foreground">
-                  +91 9037535152
+                  +91 8089474040
                 </li>
               </ul>
             </div>
@@ -325,19 +326,19 @@ export default function Home() {
                   <span className="sr-only">Facebook</span>
                 </Link>
                 <Link
-                  href="#"
+                  href="https://www.instagram.com/the_jump_rehab/profilecard/?igsh=MWU1aWRibmdxN2Fubg=="
                   className="text-muted-foreground hover:text-foreground"
                 >
                   <Instagram className="h-6 w-6" />
                   <span className="sr-only">Instagram</span>
                 </Link>
-                <Link
+                {/* <Link
                   href="#"
                   className="text-muted-foreground hover:text-foreground"
                 >
                   <Twitter className="h-6 w-6" />
                   <span className="sr-only">Twitter</span>
-                </Link>
+                </Link> */}
               </div>
             </div>
           </div>
