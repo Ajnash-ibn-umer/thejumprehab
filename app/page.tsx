@@ -201,7 +201,7 @@ export default function Home() {
                     <PhoneCall className="h-6 w-6" />
                     <div>
                       <h3 className="font-semibold">Phone</h3>
-                      <p className="text-sm">+1 (555) 123-4567</p>
+                      <p className="text-sm">+91 8089474040</p>
                     </div>
                   </CardContent>
                 </Card>
@@ -210,7 +210,7 @@ export default function Home() {
                     <Mail className="h-6 w-6" />
                     <div>
                       <h3 className="font-semibold">Email</h3>
-                      <p className="text-sm">info@thejumprehab.com</p>
+                      <p className="text-sm">hr@thejumprehab.com</p>
                     </div>
                   </CardContent>
                 </Card>
@@ -220,7 +220,8 @@ export default function Home() {
                     <div>
                       <h3 className="font-semibold">Address</h3>
                       <p className="text-sm">
-                        123 Rehab St, Athlete City, AC 12345
+                      physiotherapy and sports rehabilitation Opp: chethupaalam <br />
+                      Masjid. Calicut Road, Kottappadi - Malappuram
                       </p>
                     </div>
                   </CardContent>
@@ -308,7 +309,7 @@ export default function Home() {
                   Masjid. Calicut Road, Kottappadi - Malappuram
                 </li>
                 <li className="text-sm text-muted-foreground">
-                  info@thejumprehab.com
+                  hr@thejumprehab.com
                 </li>
                 <li className="text-sm text-muted-foreground">
                   +91 8089474040
